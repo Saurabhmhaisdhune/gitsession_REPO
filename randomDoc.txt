@@ -1,2 +1,6 @@
 this is my code
 github session
+
+git add .
+git commit -m"added commands"
+git push -u origin main
